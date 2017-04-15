@@ -6,6 +6,8 @@ Introduction
 
 croniter provides iteration for the datetime object with a cron like format.
 
+This is a fork of the PyPI package by @kiorky, reconfigured for encapsulation in a larger app without dependence on pip.
+
 ::
 
                           _ _
